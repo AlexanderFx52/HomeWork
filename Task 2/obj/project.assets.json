@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT-REPO\\ForHomeWork\\One\\Task1\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "D:\\GIT-REPO\\ForHomeWork\\One\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "D:\\GIT-REPO\\ForHomeWork\\One\\Task1\\Task 2\\Task 2.csproj",
+      "projectPath": "D:\\GIT-REPO\\ForHomeWork\\One\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT-REPO\\ForHomeWork\\One\\Task1\\Task 2\\obj\\",
+      "outputPath": "D:\\GIT-REPO\\ForHomeWork\\One\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
