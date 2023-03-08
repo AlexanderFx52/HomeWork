@@ -1,4 +1,5 @@
 ﻿Console.Clear();
+Console.WriteLine("Введите 3 числа и я покажу Вам нибольшее среди них ");
 Console.Write("Введите первое число ");
 int a = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число ");
